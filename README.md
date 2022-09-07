@@ -6,6 +6,8 @@
 
 ### <div align="center">I'm Miguel, a French 🇫🇷 curious developer 👨‍💻 since 2018 🚀</div>
 
+<br>
+
 
 - 💼 I’m currently working as a student-apprentice at [BPCE](https://groupebpce.com/)
 
@@ -17,11 +19,14 @@
 
 
 ## My Skill Set 
+<br>
 <table><tr><td valign="top" width="33%">
 
 
 
 ### Frontend  
+<br>
+
 <div align="center">  
 <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
 <a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" /></a>  
@@ -54,6 +59,8 @@
 
 
 ### Backend  
+<br>
+
 <div align="center">  
 <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
 <a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" /></a>  
@@ -83,6 +90,8 @@
 
 
 ### DevOps  
+<br>
+
 <div align="center">  
 <a href="https://aws.amazon.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" /></a>  
 <a href="https://cloud.google.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/google_cloud-icon.svg" alt="GCP" height="50" /></a>  
@@ -101,15 +110,26 @@
 
 
 ## Connect with me
+<br>
+
 <div align="center">
-<a href="https://twitter.com/MiguelC81675818" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
+<a href="mailto:msagres--pro@outlook.fr" target="_blank">
+<img src=https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white alt=gmail 
+style="margin-bottom: 5px;" />
 </a>
 <a href="https://linkedin.com/in/angelo-miguel-barbosa-costa-8986b1236" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
-<a href="https://github.com/mcosta3" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+<a href="https://twitter.com/MiguelC81675818" target="_blank">
+<img src=https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
+</a>
+<a href="https://discordapp.com/users/msagres#7375/" target="_blank">
+<img src=https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white alt=twitter 
+style="margin-bottom: 5px;" />
+</a>
+<a href="https://s.reddit.com/c/19mekrh94z4vo" target="_blank">
+<img src=https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white alt=reddit 
+style="margin-bottom: 5px;" />
 </a>  
 </div>  
 
@@ -118,6 +138,8 @@
 
 
 ## Github Stats
+<br>
+
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=mcosta3tc&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
 <br/>  
@@ -127,6 +149,7 @@
 <br/>  
 
 ## Listening to
+<br>
 
 <img src="https://spotify-github-profile.vercel.app/api/view?uid=ambcslb1&cover_image=true&theme=default" align="left" style="width: 100%" />  
 
