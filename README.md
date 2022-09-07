@@ -4,7 +4,7 @@
 
 <br/>  
 
-### <div align="center">I'm Miguel, a French 🇫🇷 curious developer 👨‍💻 since 2019 🚀</div>
+### <div align="center">I'm Miguel, a French 🇫🇷 curious developer 👨‍💻 since 2018 🚀</div>
 
 
 - 💼 I’m currently working as a student-apprentice at [BPCE](https://groupebpce.com/)
