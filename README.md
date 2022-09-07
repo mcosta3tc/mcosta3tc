@@ -1,22 +1,23 @@
 <div align="center">
-<img src="https://i.pinimg.com/originals/ab/7f/85/ab7f854e1f83760f6becc0a244dc85d3.gif" align="center" style="width: 100%, height: 4%" />
+<img src="https://i.pinimg.com/originals/ab/7f/85/ab7f854e1f83760f6becc0a244dc85d3.gif" align="center" style="width: 50%" />
 </div>  
 
+<br/>  
 
 ### <div align="center">I'm Miguel, a French 🇫🇷 curious developer 👨‍💻 since 2019 🚀</div>
 
 
-- 🔭 I’m currently working as an internship at [BPCE](https://groupebpce.com/)
+- 💼 I’m currently working as a student-apprentice at [BPCE](https://groupebpce.com/)
 
 
-- 🌱 I’m currently preparing my master at [Coding Factory](https://codingfactory.fr/)
+- 📚 I’m currently studying my master's degree at [Coding Factory](https://codingfactory.fr/)
 
 
 <br/>  
 
 
 ## My Skill Set
-<table><tr><td valign="top" width="33%">
+<table><td valign="top" width="33%">
 
 
 
