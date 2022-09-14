@@ -139,11 +139,12 @@ style="margin-bottom: 5px;" />
 
 
 
-## Listening to
-<br>
-
-<img src="https://spotify-github-profile.vercel.app/api/view?uid=ambcslb1&cover_image=true&theme=default" align="left" style="width: 100%" />  
-
+<br/>
+<br/>
+<br/>
+<div align="center" style="margin-top: 20px">
+<img src="https://spotify-github-profile.vercel.app/api/view?uid=ambcslb1&cover_image=true&theme=default" align="middle" style="width: 40%" />  
+</div>
 <br/>  
 
 
@@ -155,6 +156,4 @@ style="margin-bottom: 5px;" />
 <br/>  
 
 
-<br />
-
-----
+<br/>
