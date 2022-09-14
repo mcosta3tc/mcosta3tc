@@ -9,13 +9,17 @@
 <br>
 
 
-- 💼 I’m currently working as a student-apprentice at [BPCE](https://groupebpce.com/)
+- 💼 I’m currently working as a student-apprentice developer at [BPCE](https://groupebpce.com/)
 
 
 - 📚 I’m currently studying my master's degree at [Coding Factory](https://codingfactory.fr/)
 
 
 <br/>  
+
+## Github Stats
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=mcosta3tc&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+
 
 
 ## My Skill Set 
@@ -134,19 +138,6 @@ style="margin-bottom: 5px;" />
 </div>  
 
 
-<br/>  
-
-
-## Github Stats
-<br>
-
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=mcosta3tc&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
-
-<br/>  
-
-
-
-<br/>  
 
 ## Listening to
 <br>
