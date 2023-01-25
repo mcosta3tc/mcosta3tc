@@ -4,7 +4,7 @@
 
 <br/>  
 
-### <div align="center">I'm Miguel, a French 🇫🇷 curious developer 👨‍💻 since 2018 🚀</div>
+### <div align="center">I'm Miguel, a curious student developer 👨‍💻 since 2018 🚀</div>
 
 <br>
 
